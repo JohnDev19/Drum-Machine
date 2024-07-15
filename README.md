@@ -4,8 +4,6 @@
 
 This project is a Drum Machine web application built as part of the FreeCodeCamp Front End Development Libraries certification. It allows users to play drum sounds by clicking on drum pads or using keyboard keys.
 
-Live Demo: []
-
 ## Features
 
 - Interactive drum pads that can be triggered by mouse clicks or keyboard presses
@@ -63,7 +61,7 @@ Live Demo: []
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](insert link) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/JohnDev19/Drum-Machine/issues) if you want to contribute.
 
 ## License
 
