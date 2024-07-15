@@ -38,7 +38,7 @@ This project is a Drum Machine web application built as part of the FreeCodeCamp
 
 1. Clone the repository:
    ```
-   git clone []
+   git clone [https://github.com/JohnDev19/Drum-Machine]
    ```
 2. Navigate to the project directory:
    ```
@@ -65,7 +65,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## License
 
-This project is [MIT](insert link) licensed.
+This project is [MIT](https://github.com/JohnDev19/Drum-Machine/blob/main/LICENSE) licensed.
 
 ## Acknowledgements
 
